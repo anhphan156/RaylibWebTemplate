@@ -1,0 +1,4 @@
+-Iinclude
+-DWIDTH=800
+-DHEIGHT=600
+-DTITLE="TITLE"

@@ -1,0 +1,6 @@
+game/
+build/
+leak.txt
+out
+test_out
+.direnv
